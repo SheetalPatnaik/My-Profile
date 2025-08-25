@@ -1,13 +1,37 @@
-# 👋 Hello, I'm Sheetal Patnaik!
-I am a passionate Data Analyst with a knack for transforming raw data into meaningful insights. I specialize in leveraging data-driven techniques to solve complex problems and help businesses make informed decisions.
+# 👋 Hi, I'm Sheetal Patnaik  
 
-🎓 Education:
+🎓 **Master’s in Data Science @ San Jose State University**  
+💻 **AI Intern @ Semtech | Ex-Dell Technologies**  
+🌍 Based in San Jose, California  
 
-I am currently pursuing a Master's degree in Data Analytics at San Jose State University, where I am honing my skills in data analysis, visualization, and machine learning. I am actively seeking internship opportunities to apply my knowledge in real-world settings and gain hands-on experience.
+---
 
-📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/sheetal-patnaik/)
-- [Email](patnaiksheetal05@gmail.com)
+## 🚀 About Me
+I’m passionate about building **AI-powered systems** that transform raw data into **insights, automation, and real-world impact**.  
+My expertise spans across **Data Analytics, Deep Learning, and Generative AI**, with hands-on experience in:  
 
+- 🧠 **AI/ML Systems** → RAG pipelines, Prompt Engineering, LLM fine-tuning (LoRA, PEFT)  
+- 📊 **Data Analytics** → ETL, data visualization, anomaly detection, financial insights  
+- 🏥 **Healthcare AI** → Multimodal VQA (X-rays, MRIs + text), GANs for synthetic medical images  
+- ☁️ **Cloud & Systems** → Azure, GCP, multi-cloud data protection (Dell Data Domain, PPDM)  
 
-I am always eager to collaborate on exciting projects and contribute to the data community. Feel free to explore my repositories, and don’t hesitate to reach out!
+I love blending **research innovation** with **practical engineering** to solve problems in healthcare, finance, and enterprise AI.  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, R  
+- **AI/ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, LangChain  
+- **Data & Cloud:** Pandas, NumPy, Azure, GCP, FAISS, Spark  
+- **Visualization:** Matplotlib, Seaborn, Tableau, Power BI  
+
+---
+
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/sheetal-patnaik)  
+- 📧 [Email](mailto:sheetal.patnaik@sjsu.edu)  
+- 📂 [Portfolio (GitHub Projects)](https://github.com/SheetalPatnaik?tab=repositories)  
+
+---
+
+✨ *“Turning data into decisions, and AI into impact.”*  
