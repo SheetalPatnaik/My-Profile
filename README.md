@@ -30,7 +30,7 @@ I love blending **research innovation** with **practical engineering** to solve 
 ## 📫 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/sheetal-patnaik)  
 - 📧 [Email](mailto:sheetal.patnaik@sjsu.edu)  
-- 📂 [Portfolio (https://sheetalpatnaik.netlify.app/)] 
+- 📂 [Portfolio] (https://sheetalpatnaik.netlify.app/)
 
 ---
 
