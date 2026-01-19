@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sheetal Patnaik  
 
 🎓 **Master’s in Data Science @ San Jose State University**  
-💻 **AI Intern @ Semtech | Ex-Dell Technologies**  
+💻 **AI Engineer @ Semtech | Ex-Dell Technologies**  
 🌍 Based in San Jose, California  
 
 ---
